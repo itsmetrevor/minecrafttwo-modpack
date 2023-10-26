@@ -1,0 +1,17 @@
+{
+    "powers": [
+        "origins:strong_arms",
+        "rpg_origins:natural_armor",
+        "rpg_origins:no_time_to_rest",
+        "rpg_origins:select_targets_strong",
+        "rpg_origins:select_targets_weak",
+        "origins:no_shield",
+        "two_origins:trusty_axe"
+    ],
+    "icon": "minecraft:iron_axe",
+    "order": 7,
+    "impact": 3,
+    "name": "Brute",
+    "description": "You thrive in the fray, seeking out stronger and stronger oponents.",
+    "loading_priority": 5
+}

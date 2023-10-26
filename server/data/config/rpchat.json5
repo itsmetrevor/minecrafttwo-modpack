@@ -1,0 +1,30 @@
+{
+	// Enables/disables range numbers appearing when chatting in range-bount chat modes.
+	"enableRangeNumbers": false,
+	// Enables /chatmode
+	"enableChatModeCommand": true,
+	// Enables/disables whether or not /chatmode can only be used by operators.
+	"isChatModeCommandOpOnly": false,
+	// Enables/disables /globalchat
+	"enableGlobalChatCommand": true,
+	// Enables/disables /localchat
+	"enableLocalChatCommand": true,
+	// Range of local chat. Defaults to 30.0
+	"localChatRange": 48.0,
+	// Enables/disables /shout
+	"enableShoutCommand": true,
+	// Range of shout chat. Defaults to 80.0
+	"shoutRange": 96.0,
+	// Enables/disables text formatting on shout chat (bold)
+	"enableShoutFormatting": true,
+	// Enables/disables /whisper
+	"enableWhisperCommand": true,
+	// Range of whisper chat. Defaults to 5.0
+	"whisperRange": 5.0,
+	// Enables/disables text formatting on whisper chat (gray italics)
+	"enableWhisperFormatting": true,
+	// Enables/disables /ooc
+	"enableOOCCommand": false,
+	// Enables/disables text formatting on Out of Character chat (gold)
+	"enableOOCFormatting": true
+}

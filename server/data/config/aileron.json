@@ -1,0 +1,7 @@
+{
+  "doCameraRoll": true,
+  "cameraRollScale": 1.0,
+  "cameraRollSpeed": 0.1,
+  "campfiresPushPlayers": true,
+  "smokeStackChargeTicks": 20
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Trusty Axe",
+    "description": "Start with an Iron Axe",
+    "type": "origins:starting_equipment",
+    "stacks": [
+        {
+            "item": "minecraft:iron_axe"
+        }
+    ]
+}

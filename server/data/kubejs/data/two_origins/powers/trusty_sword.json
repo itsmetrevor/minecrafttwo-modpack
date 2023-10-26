@@ -1,0 +1,10 @@
+{
+    "name": "Trusty Sword",
+    "description": "Start with an Iron Sword",
+    "type": "origins:starting_equipment",
+    "stacks": [
+        {
+            "item": "minecraft:iron_sword"
+        }
+    ]
+}

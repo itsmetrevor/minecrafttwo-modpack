@@ -1,0 +1,14 @@
+{
+    "name": "Trusty Bow",
+    "description": "Start with a bow and supply of arrows",
+    "type": "origins:starting_equipment",
+    "stacks": [
+        {
+            "item": "minecraft:bow"
+        },
+        {
+            "item": "minecraft:arrow",
+            "amount": 64
+        }
+    ]
+}

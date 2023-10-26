@@ -1,0 +1,17 @@
+# .gitignore
+
+server/data/*
+
+!server/data/config
+server/data/config/voicechat/username-cache.json
+server/data/config/jade/usernamecache.json
+server/data/config/roughlyenoughitems/hints.json
+server/data/config/paragon.json5
+
+!server/data/kubejs
+
+!server/data/mods
+server/data/mods/*
+!server/data/mods/README.md
+
+!server.properties
