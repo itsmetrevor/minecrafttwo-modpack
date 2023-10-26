@@ -14,4 +14,9 @@ server/data/config/paragon.json5
 server/data/mods/*
 !server/data/mods/README.md
 
-!server.properties
+server.properties
+server/data/config/byg/backups
+server/data/config/vmp.properties
+server/data/config/guarding.properties
+server/data/config/fastload.properties
+server/data/server.properties
