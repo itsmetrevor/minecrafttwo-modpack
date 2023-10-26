@@ -4,7 +4,7 @@ services:
   minecrafttwo:
     image: itzg/minecraft-server
     volumes:
-      - ./data:/data:rw
+      - ./data:/data
     ports:
       - "25565:25565"
       - "24454:24454"
