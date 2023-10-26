@@ -3,6 +3,7 @@ version: '3.8'
 services:
   minecrafttwo:
     image: itzg/minecraft-server
+    restart: unless-stopped
     volumes:
       - ./data:/data
     ports:
@@ -10,6 +11,9 @@ services:
       - "24454:24454/udp"
     environment:
       EULA: "true"
+      ENABLE_AUTOPAUSE: "TRUE"
+      AUTOPAUSE_TIMEOUT_EST: 600
+      OVERRIDE_SERVER_PROPERTIES: "TRUE"
       TYPE: FABRIC
       DEBUG: true
       VERSION: 1.19.2
@@ -36,7 +40,7 @@ services:
       MAX_CHAINED_NEIGHBOR_UPDATES: 1000000
       DIFFICULTY: hard
       NETWORK_COMPRESSION_THRESHOLD: 256
-      MAX_TICK_TIME: 60000
+      MAX_TICK_TIME: -1
       REQUIRE_RESOURCE_PACK: false
       USE_NATIVE_TRANSPORT: true
       MAX_PLAYERS: 20
