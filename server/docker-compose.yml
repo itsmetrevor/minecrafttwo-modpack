@@ -22,13 +22,13 @@ services:
       ##################################
       ENABLE_JMX_MONITORING: false
       RCON_PORT: 25575
-      LEVEL_SEED: -259069284078707060
+      SEED: -259069284078707060
       GAMEMODE: survival
       ENABLE_COMMAND_BLOCK: false
       ENABLE_QUERY: false
       GENERATOR_SETTINGS: "{}"
       ENFORCE_SECURE_PROFILE: false
-      LEVEL_NAME: MinecraftTwoWorld
+      LEVEL: MinecraftTwoWorld
       MOTD: A Minecraft Two Server
       QUERY_PORT: 25565
       PVP: false
