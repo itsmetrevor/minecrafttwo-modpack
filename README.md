@@ -1,13 +1,6 @@
 
 ![Minecraft Two](./assets/mctwo-banner.png)  
 
----
-
-<center>
-A modpack for Minecraft that extends beyond what would be considered Vanilla+ but still very much in the spirit of the vanilla game.
-</center>
-
----
 <br>
 
 ## Client Setup
