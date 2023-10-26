@@ -40,3 +40,4 @@ TODO
 ## Resources
 
 https://docker-minecraft-server.readthedocs.io/en/latest/
+https://github.com/itzg/docker-minecraft-server/tree/master/examples
