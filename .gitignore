@@ -1,5 +1,6 @@
 # Exclude exported CurseForge zip files
-*.zip
+# DISABLED: Some important files also end in .zip
+# *.zip
 
 # Exclude exported Modrinth modpacks
 *.mrpack
