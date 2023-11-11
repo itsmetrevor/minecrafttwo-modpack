@@ -634,7 +634,7 @@ hash = "ac1a285dbb5aa3549eef3474208c98c9ceb4db9cffc8f4f9409892c38ffb6b39"
 
 [[files]]
 file = "config/iris.properties"
-hash = "b4bb40f1284959555b33e5577709be9480d2fa5b1059b0f0e8a67f32948443e0"
+hash = "41c1c65a37b6f0e2771868859221c557087aee661b6315e47e379e150877e179"
 
 [[files]]
 file = "config/itemmodelfix.json"
@@ -1226,15 +1226,15 @@ hash = "45cd588f92461eb6ef1cf3aaaec7fa62857670a7d19aea0124e961ccc5217012"
 
 [[files]]
 file = "kubejs/config/defaultoptions.txt"
-hash = "bc894023a51f2c347d5a8ed4cd2748c6d92fa22a56b12d64d31efaaa6caecf1a"
+hash = "89dd03b5cbffec8684200b27cf70ff5b60904c140f41b6bb4a0474485620b1b3"
 
 [[files]]
 file = "kubejs/data/cauldron-concrete.zip"
-hash = "b8d1fd889cac8d35ae3dae6f78f58c2d2efee57c347f2d1d38e422ab326aff49"
+hash = "c6f2c438d1a53044e3fde005f5adc16393d15a15e75e98176a2f4deeca290997"
 
 [[files]]
 file = "kubejs/data/custom-nether-portals.zip"
-hash = "8dde800454450115575769a1db73809f4f786bf623a61379121e3562a7738564"
+hash = "a3c48341b2ccb5c07ec5d327ae3fef9844a256c0a4f393a8f6f64b064c7ddc57"
 
 [[files]]
 file = "kubejs/data/origins/origin_layers/origin.json"
@@ -1322,11 +1322,11 @@ hash = "a1c0159195cebb57118c4b81ea7021f97fd3548a58898880b53f0e048a055ed7"
 
 [[files]]
 file = "kubejs/data/unlock-all-recipies.zip"
-hash = "3fb827c37d06f48359170783615503bf81e9fb64c72f66ba4ccf9488997447ee"
+hash = "9408b2e9bd13978de51fa568d3c335c4e3a1a78bdacbe85cdfee0141b460639b"
 
 [[files]]
 file = "kubejs/data/vanillatweaks-crafting.zip"
-hash = "0c9b62f167eac179fdf8cdcfffd5d1f398089459de2665f98ba64284add458ee"
+hash = "4125d8d40bf0a04ec4da5bed5b412e79270600b85429eee1cfd03f98da7e0ec6"
 
 [[files]]
 file = "kubejs/server_scripts/effortlessRestrictions.js"
@@ -2549,11 +2549,11 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/vanillatweaks-resources.zip"
-hash = "bc601d483eeb37047a7ba46a3f9ef57f1082bcca2c1a833e6d1aac7e028861d2"
+hash = "a851fb61dbdadd4a28da21790993a4bb27e25425de912db0541b9e702219c901"
 
 [[files]]
-file = "shaderpacks/MakeUp-UltraFast-8.9.a.zip.txt"
-hash = "2665b841c3b67d7ed1b11c9cb79f0d60ddd396cc4c40f9b7dcd008ffcc6de18f"
+file = "shaderpacks/MakeUp-UltraFast-8.9a.zip.txt"
+hash = "c2eb8e969af69dfc0772a6f473c91ff5bd14677af2274048becfd88cbc9f9350"
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"

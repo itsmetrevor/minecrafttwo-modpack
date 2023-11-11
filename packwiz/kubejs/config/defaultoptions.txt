@@ -37,8 +37,8 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:7
 renderClouds:"true"
-resourcePacks:["vanilla","Fabric Mods","continuity/default","continuity/glass_pane_culling_fix","betterbeds/connectedbeds","betterbeds/fancybeds","visualoverhaul/rounddiscs","black_icons","visualoverhaul/coloredwaterbucket","visualoverhaul/fancyfurnace","visualoverhaul/nobrewingbottles","Supplementaries Generated Pack","file/incendium-extras.zip","file/vanillatweaks-resources.zip","file/better-leaves.zip","celestria/pixelperfect"]
-incompatibleResourcePacks:["betterbeds/connectedbeds","betterbeds/fancybeds","file/incendium-extras.zip","file/vanillatweaks-resources.zip"]
+resourcePacks:["vanilla","Fabric Mods","continuity/default","continuity/glass_pane_culling_fix","betterbeds/connectedbeds","betterbeds/fancybeds","visualoverhaul/rounddiscs","black_icons","visualoverhaul/coloredwaterbucket","visualoverhaul/fancyfurnace","visualoverhaul/nobrewingbottles","Supplementaries Generated Pack","celestria/realistic","file/Better-Leaves-7.1-1.19+.zip","file/Incendium_Optional_Resourcepack_1.20.1_v5.3.7.zip","file/vanillatweaks-resources.zip"]
+incompatibleResourcePacks:["betterbeds/connectedbeds","betterbeds/fancybeds","file/Incendium_Optional_Resourcepack_1.20.1_v5.3.7.zip","file/vanillatweaks-resources.zip"]
 lastServer:localhost
 lang:en_us
 soundDevice:""
@@ -178,24 +178,24 @@ key_key.voice_chat_settings:key.keyboard.unknown
 key_key.voice_chat_group:key.keyboard.unknown
 key_key.voice_chat_toggle_recording:key.keyboard.unknown
 key_key.voice_chat_adjust_volumes:key.keyboard.unknown
-key_key.wands.n_dec:key.keyboard.down
-key_key.wands.wand_fill_circle:key.keyboard.keypad.7
-key_key.wands.clear_wand:key.keyboard.keypad.add
-key_key.wands.wand_orientation:key.keyboard.keypad.4
 key_key.wands.palette_menu:key.keyboard.keypad.decimal
-key_key.wands.wand_invert:key.keyboard.keypad.5
-key_key.wands.m_inc:key.keyboard.right
-key_key.wands.wand_undo:key.keyboard.keypad.enter
 key_key.wands.n_inc:key.keyboard.up
-key_key.wands.wand_mode:key.keyboard.keypad.6
-key_key.wands.wand_palette_mode:key.keyboard.keypad.3
-key_key.wands.wand_rotate:key.keyboard.keypad.2
+key_key.wands.clear_wand:key.keyboard.keypad.add
 key_key.wands.wand_menu:key.keyboard.keypad.0
+key_key.wands.wand_mode:key.keyboard.keypad.6
 key_key.wands.m_dec:key.keyboard.left
 key_key.wands.wand_action:key.keyboard.keypad.multiply
+key_key.wands.m_inc:key.keyboard.right
+key_key.wands.n_dec:key.keyboard.down
 key_key.wands.area_diagonal_spread:key.keyboard.keypad.8
 key_key.wands.toggle_stair_slab:key.keyboard.keypad.1
+key_key.wands.wand_fill_circle:key.keyboard.keypad.7
 key_key.wands.inc_sel_block:key.keyboard.keypad.9
+key_key.wands.wand_orientation:key.keyboard.keypad.4
+key_key.wands.wand_invert:key.keyboard.keypad.5
+key_key.wands.wand_palette_mode:key.keyboard.keypad.3
+key_key.wands.wand_rotate:key.keyboard.keypad.2
+key_key.wands.wand_undo:key.keyboard.keypad.enter
 key_gui.xaero_switch_waypoint_set:key.keyboard.unknown
 key_gui.xaero_instant_waypoint:key.keyboard.unknown
 key_gui.xaero_toggle_slime:key.keyboard.unknown
