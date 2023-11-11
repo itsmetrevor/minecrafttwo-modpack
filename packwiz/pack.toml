@@ -1,0 +1,13 @@
+name = "Minecraft Two"
+author = "ItsMeTrevor"
+version = "4"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f797974bae1f1ade34297ee0168f030eb6d732e448bfb3146e115dabc10122ac"
+
+[versions]
+fabric = "0.14.22"
+minecraft = "1.19.2"

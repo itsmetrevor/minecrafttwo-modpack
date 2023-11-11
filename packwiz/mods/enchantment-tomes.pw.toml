@@ -1,0 +1,13 @@
+name = "Enchantment Tomes"
+filename = "Tomes-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "415a49ce0f4f12caddaa4bec153930e07647472f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3955053
+project-id = 665485

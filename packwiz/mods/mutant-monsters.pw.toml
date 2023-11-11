@@ -1,0 +1,13 @@
+name = "Mutant Monsters"
+filename = "MutantMonsters-v4.0.6-1.19.2-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/derP0ten/versions/E6MjVWsN/MutantMonsters-v4.0.6-1.19.2-Fabric.jar"
+hash-format = "sha1"
+hash = "01e8173205995687ebe402838b31038c6e2ec24b"
+
+[update]
+[update.modrinth]
+mod-id = "derP0ten"
+version = "E6MjVWsN"

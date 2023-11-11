@@ -1,0 +1,10 @@
+{
+    "name": "Thin Skinned",
+    "description": "Take half a heart more damage from attacks",
+    "type": "origins:modify_damage_taken",
+    "damage_condition": { "type": "origins:attacker" },
+    "modifier": {
+        "operation": "add_base_early",
+        "value": 1
+    }
+}

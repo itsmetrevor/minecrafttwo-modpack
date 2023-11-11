@@ -1,22 +1,5 @@
-# .gitignore
+# Exclude exported CurseForge zip files
+*.zip
 
-server/data/*
-
-!server/data/config
-server/data/config/voicechat/username-cache.json
-server/data/config/jade/usernamecache.json
-server/data/config/roughlyenoughitems/hints.json
-server/data/config/paragon.json5
-
-!server/data/kubejs
-
-!server/data/mods
-server/data/mods/*
-!server/data/mods/README.md
-
-server.properties
-server/data/config/byg/backups
-server/data/config/vmp.properties
-server/data/config/guarding.properties
-server/data/config/fastload.properties
-server/data/server.properties
+# Exclude exported Modrinth modpacks
+*.mrpack

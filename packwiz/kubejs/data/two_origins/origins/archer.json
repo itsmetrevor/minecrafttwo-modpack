@@ -1,0 +1,16 @@
+{
+    "powers": [
+        "two_origins:ranged_prowess",
+        "two_origins:melee_clumsiness",
+        "two_origins:trusty_bow",
+        "rpg_origins:quiver",
+        "two_origins:thin_skinned",
+        "rpg_origins:resourceful"
+    ],
+    "icon": "minecraft:bow",
+    "order": 2,
+    "impact": 1,
+    "name": "Archer",
+    "description": "Trained in ranged combat, you're strength lies in attacking from afar.",
+    "loading_priority": 5
+}

@@ -1,0 +1,13 @@
+name = "Armor & damage scaling[Forge/Fabric]"
+filename = "armordamagescale-fabric-1.19.2-2.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c4ae23dbcff6eba14232136ed9d15f6f78b5a8f7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4669620
+project-id = 824936

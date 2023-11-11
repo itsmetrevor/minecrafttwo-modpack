@@ -1,0 +1,13 @@
+name = "Cycle Paintings"
+filename = "cyclepaintings-1.19.2-3.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/c85whkNB/versions/G68Uq4kN/cyclepaintings-1.19.2-3.3.jar"
+hash-format = "sha1"
+hash = "dc29bc7c119c680bd07239b3c709eaaf4cee89de"
+
+[update]
+[update.modrinth]
+mod-id = "c85whkNB"
+version = "G68Uq4kN"

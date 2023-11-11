@@ -1,0 +1,16 @@
+{
+    "powers": [
+        "rpg_origins:fastcure",
+        "two_origins:gifted_protection",
+        "two_origins:melee_clumsiness",
+        "two_origins:thin_skinned",
+        "rpg_origins:fireball",
+        "rpg_origins:water_walk"
+    ],
+    "icon": "minecraft:book",
+    "order": 4,
+    "impact": 2,
+    "name": "Mage",
+    "description": "Studied in magic, you know a thing or two about the arcane.",
+    "loading_priority": 5
+}

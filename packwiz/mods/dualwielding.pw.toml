@@ -1,0 +1,13 @@
+name = "DualWielding"
+filename = "dualwielding-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eKaAqRnq/versions/vUybRipl/dualwielding-1.1.2.jar"
+hash-format = "sha1"
+hash = "6851921e22e0619b77d908dbd70ee8dccf602ca1"
+
+[update]
+[update.modrinth]
+mod-id = "eKaAqRnq"
+version = "vUybRipl"

@@ -1,0 +1,13 @@
+name = "BeeFix"
+filename = "beefix-1.0-SNAPSHOT+1.19.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/GpUuHBJw/versions/r9HOVsxE/beefix-1.0-SNAPSHOT%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "1c8e3b97daa0b865706b068327c33c724177dc2b"
+
+[update]
+[update.modrinth]
+mod-id = "GpUuHBJw"
+version = "r9HOVsxE"

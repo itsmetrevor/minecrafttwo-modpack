@@ -1,0 +1,13 @@
+name = "Treeplacer - Terralith Addon"
+filename = "treeplacer-terralith-addon-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ys1mdL6V/versions/LnmlTV7L/treeplacer-terralith-addon-1.0.0.jar"
+hash-format = "sha1"
+hash = "436508fa4d69e216d2c41854491b3e645a47aad6"
+
+[update]
+[update.modrinth]
+mod-id = "Ys1mdL6V"
+version = "LnmlTV7L"

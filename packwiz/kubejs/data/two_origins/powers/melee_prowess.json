@@ -1,0 +1,13 @@
+{
+    "name": "Melee Prowess",
+    "description": "Deal half a heart more damage with melee attacks.",
+    "type": "origins:modify_damage_dealt",
+    "damage_condition": { 
+        "type": "origins:projectile",
+        "inverted": true
+    },
+    "modifier": {
+        "operation": "add_base_early",
+        "value": 1
+    }
+}

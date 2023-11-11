@@ -1,0 +1,27 @@
+{
+    "powers": [
+        "rpg_origins:horn_effects/ponder",
+        "rpg_origins:horn_effects/sing",
+        "rpg_origins:horn_effects/feel",
+        "rpg_origins:horn_effects/admire",
+        "rpg_origins:horn_effects/call",
+        "rpg_origins:horn_effects/dream",
+        "rpg_origins:horn_effects/seek",
+        "rpg_origins:horn_effects/yearn",
+        "rpg_origins:horn_effects/musical_talent",
+        "rpg_origins:musical_past",
+        "two_origins:gifted_protection",
+        "two_origins:thin_skinned",
+        "two_origins:melee_clumsiness",
+        "two_origins:ranged_clumsiness",
+        "rpg_origins:charismatic",
+        "rpg_origins:charismatic_toggle",
+        "rpg_origins:speedy"
+    ],
+    "icon": "minecraft:goat_horn",
+    "order": 5,
+    "impact": 2,
+    "name": "Bard",
+    "description": "As lore keeper, you share your songs with others to boost moral, among other thigns.",
+    "loading_priority": 5
+}

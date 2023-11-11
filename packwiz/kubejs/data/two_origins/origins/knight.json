@@ -1,0 +1,17 @@
+{
+    "powers": [
+        "two_origins:melee_prowess",
+        "two_origins:ranged_clumsiness",
+        "two_origins:thick_skinned",
+        "two_origins:trusty_sword",
+        "two_origins:trusty_shield",
+        "origins:more_exhaustion",
+        "rpg_origins:not_the_smartest"
+    ],
+    "icon": "minecraft:shield",
+    "order": 1,
+    "impact": 1,
+    "name": "Knight",
+    "description": "You're a powerful knight. You're used to being on the front line in battle and are always ready to make sacrifices.",
+    "loading_priority": 5
+}

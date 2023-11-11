@@ -1,0 +1,13 @@
+name = "Treeplacer"
+filename = "treeplacer-fabric-1.19-1.19.2-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4im8hCxA/versions/tLZaQPmI/treeplacer-fabric-1.19-1.19.2-1.0.1.jar"
+hash-format = "sha1"
+hash = "c0814525fdcdc3a86b33430f5fd6bce4329b7ca8"
+
+[update]
+[update.modrinth]
+mod-id = "4im8hCxA"
+version = "tLZaQPmI"

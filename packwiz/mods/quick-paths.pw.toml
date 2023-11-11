@@ -1,0 +1,13 @@
+name = "Quick Paths"
+filename = "quickpaths-1.19.2-3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IPbFTPzw/versions/tZqfMxnw/quickpaths-1.19.2-3.1.jar"
+hash-format = "sha1"
+hash = "fa6820325201d5f29c23b8fa1da004829f9cf77c"
+
+[update]
+[update.modrinth]
+mod-id = "IPbFTPzw"
+version = "tZqfMxnw"

@@ -1,0 +1,13 @@
+name = "fix GPU memory leak[Forge/Fabric]"
+filename = "gpumemleakfix-fabric-1.19.2-1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3d0088efcb3c429204579bc23f1e02ea4d027361"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4621019
+project-id = 882495

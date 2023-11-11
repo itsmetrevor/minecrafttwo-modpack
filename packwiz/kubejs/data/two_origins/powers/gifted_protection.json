@@ -1,0 +1,10 @@
+{
+    "name": "Gifted Protection",
+    "description": "Start with a Stone Sword",
+    "type": "origins:starting_equipment",
+    "stacks": [
+        {
+            "item": "minecraft:stone_sword"
+        }
+    ]
+}
