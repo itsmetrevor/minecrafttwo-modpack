@@ -12,7 +12,7 @@ services:
       - '25565:25565'
       - '24454:24454/udp'
     environment:
-      PACKWIZ_URL: http://localhost:8080/pack.toml
+      PACKWIZ_URL: https://raw.githubusercontent.com/itsmetrevor/minecrafttwo-modpack/packstable/packwiz/pack.toml
       EULA: true
       ENABLE_AUTOPAUSE: true
       AUTOPAUSE_TIMEOUT_EST: 600
