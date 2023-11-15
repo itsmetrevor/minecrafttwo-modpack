@@ -9,8 +9,9 @@ services:
     volumes:
       - ./data:/data
     ports:
-      - '25565:25565'
-      - '24454:24454/udp'
+      - "25565:25565/tcp"
+      - "25565:25565/udp"
+      - "24454:24454/udp"
     environment:
       PACKWIZ_URL: https://raw.githubusercontent.com/itsmetrevor/minecrafttwo-modpack/packstable/packwiz/pack.toml
       EULA: true
