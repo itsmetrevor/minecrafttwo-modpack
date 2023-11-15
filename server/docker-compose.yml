@@ -20,7 +20,7 @@ services:
       ENABLE_ROLLING_LOGS: true
       OVERRIDE_SERVER_PROPERTIES: true
       TYPE: FABRIC
-      DEBUG: true
+      DEBUG: false
       VERSION: 1.19.2
       FABRIC_LAUNCHER_VERSION: 0.11.2
       FABRIC_LOADER_VERSION: 0.14.22
@@ -65,7 +65,7 @@ services:
       RESOURCE_PACK: ''
       ENTITY_BROADCAST_RANGE_PERCENTAGE: 100
       SIMULATION_DISTANCE: 10
-      RCON_PASSWORD: ''
+      RCON_PASSWORD: 'funnyrconpassword'
       PLAYER_IDLE_TIMEOUT: 0
       FORCE_GAMEMODE: true
       RATE_LIMIT: 0
@@ -90,7 +90,7 @@ services:
       minecrafttwo:
         condition: service_healthy
     environment:
-      RCON_PASSWORD: ''
+      RCON_PASSWORD: 'funnyrconpassword'
       RCON_RETRY_INTERVAL: 30s
       RCON_RETRIES: -1
       BACKUP_INTERVAL: 2h
